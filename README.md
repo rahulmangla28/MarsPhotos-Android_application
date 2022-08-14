@@ -1,8 +1,3 @@
-MarsPhotos - Starter Code
-==================================
-
-Starter code for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
-
 Introduction
 ------------
 
@@ -23,9 +18,3 @@ You need to know:
 - How to create and use fragments.
 - How to use architecture components including ViewModel, and LiveData.
 - How to use coroutines for long-running tasks.
-
-
-Getting Started
----------------
-
-1. Download and run the app.
